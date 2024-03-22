@@ -1,3 +1,5 @@
+from Repo https://github.com/IDEA-Research/DINO/tree/main
+
 ####Install from the installation file
 
 dino_Detr_insta.ipynb
